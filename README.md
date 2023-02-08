@@ -25,13 +25,13 @@ You have been promoted to commander of the Mars Lander mission ! The goal of the
 
 ## Gama goals 
 
-- you can control on ship if ship landing on flat land the process will pass and rocket will landing in safe
--  the rockect would down any way 
+- You can control on ship if ship landing on flat land the process will pass and rocket will landing in safe
+- The rockect would down any way 
 
 ## Instructions
 
--  install codeforces 
--  install sfml library  follow instructions from  [sfml website](https://www.sfml-dev.org/download.php)
+-  Install codeforces 
+-  Install sfml library  follow instructions from  [sfml website](https://www.sfml-dev.org/download.php)
 
 
 
