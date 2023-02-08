@@ -34,7 +34,7 @@ You have been promoted to commander of the Mars Lander mission ! The goal of the
 
 ## Instructions
 
--  Install codeforces 
+-  Install codeblocks 
 -  Install sfml library  follow instructions from  [sfml website](https://www.sfml-dev.org/download.php)
 
 
