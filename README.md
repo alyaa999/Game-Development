@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/41211827/217656275-1832e0c8-f074-48a4-
 - Increase the speed of observation
 
 
-# Mars Landing 
+# Mars Landing Game 
 
 ## Video Game 
 
